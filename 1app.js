@@ -1,3 +1,4 @@
+console.log("TASK 2");
 let user = prompt("Random bir sey daxil edin:");
 let num = 0;
 for (let i = 0; i < user.length; i++) {
