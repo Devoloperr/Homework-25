@@ -7,7 +7,7 @@ for (let i = 0; i < user.length; i++) {
     }
 }
 if (num == 0) {
-    console.log("metnde reqem yoxdur.");
+    console.log("metnde reqem yoxdur");
 } else {
-    console.log("metnde reqem var.");
+    console.log("metnde reqem var");
 }
